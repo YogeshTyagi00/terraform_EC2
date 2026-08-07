@@ -144,3 +144,5 @@ vite.config.ts.timestamp-*
 
 .terraform/
 tera-ec2-key
+terraform.tfstate
+terraform.tfstate.backup
