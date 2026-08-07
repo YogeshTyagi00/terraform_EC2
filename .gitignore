@@ -146,3 +146,4 @@ vite.config.ts.timestamp-*
 tera-ec2-key
 terraform.tfstate
 terraform.tfstate.backup
+.terraform.lock.hcl
